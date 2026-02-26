@@ -9,11 +9,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-    [![Trophies](https://github-profile-trophy.vercel.app/?username=Ahmad-hassan110&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/Ahmad-hassan110)
-</div>
-
 <br/>
 
 ## 🌌 About My Work
@@ -52,7 +47,5 @@ I bridge the gap between heavy-duty backend architecture and intelligent, data-d
 ---
 
 ## 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-hassan110&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-hassan110&theme=tokyonight&hide_border=true&stroke=0000&background=00000000)
