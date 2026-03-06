@@ -14,10 +14,11 @@
 ## 🌌 About My Work
 I bridge the gap between heavy-duty backend architecture and intelligent, data-driven solutions. Whether I'm managing memory allocation at the OS level, debugging an MPI environment for parallel computing, or building responsive front-ends, I focus on performance and scalability.
 
-* 🔭 **Current Focus:** Finalizing the architecture for my FYP and pushing the limits of parallel and distributed computing.
+* 🔭 **Current Focus:** Finalizing the architecture for my FYP and pushing the limits of AI and Machine Learning.
 * 🧠 **AI/ML Journey:** Building predictive models, diving into async Python, and mastering data science workflows.
 * ⚡ **Systems Engineering:** Exploring POSIX threads, shell scripting, and core operating system mechanics.
 * 🚀 **Full Stack:** Turning complex software requirements and Agile sprints into live, robust applications.
+* **Think like an Engineer.** **Build like an Artist**
 
 ---
 
