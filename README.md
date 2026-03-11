@@ -12,7 +12,7 @@
 <br/>
 
 ## 🌌 About My Work
-I bridge the gap between heavy-duty backend architecture and intelligent, data-driven solutions. Whether I'm managing memory allocation at the OS level, debugging an MPI environment for parallel computing, or building responsive front-ends, I focus on performance and scalability.
+Full Stack Developer currently focusing on Artificial Intelligence, Machine Learning, and Data Science. Interested in building data-driven applications and intelligent systems. Always exploring new technologies and improving problem-solving skills.
 
 * 🔭 **Current Focus:** Finalizing the architecture for my FYP and pushing the limits of AI and Machine Learning.
 * 🧠 **AI/ML Journey:** Building predictive models, diving into async Python, and mastering data science workflows.
