@@ -18,7 +18,7 @@ Full Stack Developer currently focusing on Artificial Intelligence, Machine Lear
 * 🧠 **AI/ML Journey:** Building predictive models, diving into async Python, and mastering data science workflows.
 * ⚡ **Systems Engineering:** Exploring POSIX threads, shell scripting, and core operating system mechanics.
 * 🚀 **Full Stack:** Turning complex software requirements and Agile sprints into live, robust applications.
-*    **Think like an Engineer.** **Build like an Artist**
+*                           **Think like an engineer, build like an Artist**
 
 ---
 
